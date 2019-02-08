@@ -7,15 +7,12 @@ body{
                          "nav nav  nav nav"
                          "section section aside aside"
                          "footer footer footer footer";
-grid-template-rows: 250px 50px 700px 100px;
+grid-template-rows: 230px 50px 700px 100px;
                         
-}
-header>h1{
-    color:white;
 }
 header{
     grid-area: header;
-    background-color:black;
+    background-color:white;
     display:flex;
     align-items: center;
     justify-content: center;
